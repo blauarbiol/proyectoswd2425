@@ -79,5 +79,14 @@
     "alt": "Ala de un avión volando",
     "texto": "Un blog de viajes en inglés con barreras de accesibilidad web para empatizar con las personas con discapacidad",
     "url": "https://dunaestrada.github.io/practica2/"
+  },
+  {
+    "id": 9,
+    "autor": "Blau Arbiol i Andrea Ginés",
+    "titulo": "Furniture",
+    "srcimg": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c1.avif",
+    "alt": "Cadira en una habitació",
+    "texto": "Una pàgina web d'una botiga de mobles, com cadires, làmpares, taules, i butaques per empatitzar amb les persones amb discapacitat.",
+    "url": "https://blauarbiol.github.io/practica2/"
   }
 ]
