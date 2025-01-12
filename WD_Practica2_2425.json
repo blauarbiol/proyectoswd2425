@@ -97,5 +97,14 @@
     "alt": "Logo D&D",
     "texto": "Web Informativa de Dungeons and Dragons",
     "url": "https://ikwaru.github.io/webjeje/"
+  },
+  {
+    "id": 11,
+    "autor": Blau Arbiol i Andrea Ginés",
+    "titulo": "DFurniture",
+    "srcimg": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c1.avif",
+    "alt": "Imatge d'una cadira",
+    "texto": "Pàgina web d'una botiga de mobles amb barreres d'accessibilitat per empatitzar amb persones amb discapacitat.",
+    "url": "https://blauarbiol.github.io/practica2/"
   }
 ]
